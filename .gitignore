@@ -1,0 +1,25 @@
+# Ignore raw data, large files, and sensitive info
+data/raw/
+*.mp4
+*.avi
+*.mov
+
+# Ignore trained model weights
+*.pt
+*.onnx
+
+# Ignore Python cache and virtual envs
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
+venv/
+
+# Ignore system files
+.DS_Store
+
+# Ignore logs and outputs
+reports/training_logs/
+runs/
+
