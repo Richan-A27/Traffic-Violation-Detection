@@ -20,9 +20,6 @@ Traffic violations such as helmetless riding and red-light jumping are major cau
 - Flask / Streamlit
 - Matplotlib, Seaborn
 
-## Project Structure
-See PROJECT_FLOW.md
-
 ## Workflow
 1. Data Collection → Scrape/download videos/images
 2. Data Annotation → Label helmets, vehicles, traffic lights
